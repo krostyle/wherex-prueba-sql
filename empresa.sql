@@ -1,0 +1,10 @@
+insert into empresa (nombre, estado) values ('Fivechat', 3);
+insert into empresa (nombre, estado) values ('Dabfeed', 2);
+insert into empresa (nombre, estado) values ('Fivespan', 3);
+insert into empresa (nombre, estado) values ('Kayveo', 3);
+insert into empresa (nombre, estado) values ('Fatz', 3);
+insert into empresa (nombre, estado) values ('Yakijo', 2);
+insert into empresa (nombre, estado) values ('Oba', 2);
+insert into empresa (nombre, estado) values ('Trilia', 2);
+insert into empresa (nombre, estado) values ('Midel', 2);
+insert into empresa (nombre, estado) values ('Feedfire', 3);
